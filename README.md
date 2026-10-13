@@ -48,4 +48,3 @@ Mainly I'm getting used to moving around the Linux filesystem from the terminal 
 Coming next
 More exercises, more notes on what each command does, and whatever mistakes I make along the way. I'll keep adding to this as I go.
 Note: I only run security tests in my own lab or on systems I have permission to test. Nothing here is meant to be used against anyone else's machines.
-
